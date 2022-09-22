@@ -1,12 +1,15 @@
-# club-QuickBox
-club-QuickBox is a fresh and modernized skin for rTorrent GUI, ruTorrent. This theme has been featured on projects such as Swizards and has been made exclusively for QuickBox.IO. Welcome to club-QuickBox!
+# rave-Swizzin
+rave-Swizzin is a fresh and modernized skin for rTorrent GUI, ruTorrent based on club-QuickBox from the team at [QuickBox](https://quickbox.io/).
+
+Welcome to the rave!
+Works on rutorrent v4.0.
 
 ## Install
 
 You will need to navigate to your plugins/themes directory, typically located at ```../../rutorrent/plugins/theme/themes```
 
-Next, simply clone the club-QuickBox skin to your themes
+Next, simply clone the rave-Swizzin skin to your themes
 ```
-git clone https://lab.quickbox.io/QuickBox/club-QuickBox.git club-QuickBox
-chown -R www-data: club-QuickBox
+git clone https://github.com/drpoutine/rave-Swizzin.git rave-Swizzin
+chown -R www-data: rave-Swizzin
 ```
